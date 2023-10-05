@@ -1,0 +1,746 @@
+/* css start */
+
+*{
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  
+  ul,ol{
+  
+      list-style: none;
+  }
+  
+  
+  a{
+  
+      text-decoration: none;
+  
+  }
+  
+  
+  
+  
+  .contener{
+     width: 1400px;
+      margin: 0 auto;
+  }
+  
+  
+  
+  
+  
+  /* css end */
+  
+  /* menu start */
+  .hader{
+      
+      background-color:white;
+      
+  }
+  
+  
+  .menu{
+  
+      text-align: center;
+      width: 90%;
+      margin: auto;
+      padding: 0 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  } 
+  
+  .menu ul li{
+  
+  display:inline-block;
+  
+  }
+  
+  
+  .menu ul li a{
+  
+  padding: 0 15px;
+  color:red;
+  text-transform: uppercase;
+  line-height: 90px;
+  transition: .4s;
+  }
+  
+  
+  .menu ul li a:hover{
+  
+      color:black;
+      
+  }
+  /* menu end */
+  
+  /* benar start */
+
+.ak{
+height:700px ;
+width: 100%px;
+background-color: white;
+display: flex;
+
+}
+  
+.lekha{
+
+padding-top: 100px;
+padding-left: 130px;
+font-size: 40px;
+transition: .4s;
+
+
+}
+
+.lekha :hover{
+
+    color: red;
+
+}
+
+.lekha_2 img{
+ padding-top: 100px;
+ padding-left: 30px;
+}
+
+.kaj{
+
+  display: flex;
+  padding-top: 3px;
+  padding-left: -50px;
+
+
+}
+
+
+
+
+
+ .button{
+
+padding: 0 10px 30px 15px;
+
+
+}
+
+
+
+.button_1 ul li a{
+
+    transition: .4s;
+    padding: 0px 10px 15px 15px;
+    font-size: 25px;
+    color: black;
+   
+    } 
+
+    /* benar end */
+
+    /* benar 1 start */
+
+    .benar_2{
+        height:550px ;
+        width: 100%px;
+        background-color: white;
+       transition: .4s;
+       
+        }
+
+
+  .benar_2 h1{
+       
+padding-top: 0px;
+padding-left: 440px;
+font-size: 50px;
+
+
+  }
+
+
+.benar_2 h1:hover{
+
+    color: red;
+}
+
+
+  .benar_2 h4{
+       
+    padding-top: 5px;
+    padding-left: 620px;
+    font-size: 20px;
+    
+    
+      }
+
+      .benar_2 h4:hover{
+
+        color: red;
+    }
+
+      .box{
+        display: inline;
+      } 
+
+      .box h3:hover{
+
+        color: red;
+    }
+
+    .box h5:hover{
+
+        color: red;
+    }
+
+      .box_1{
+        display: inline;
+      } 
+
+      .box_1 h3:hover{
+
+        color: red;
+    }
+
+
+    .box_1 h5:hover{
+
+        color: red;
+    }
+
+      .box_2{
+        display: inline;
+      } 
+      .box_2 h3:hover{
+
+        color: red;
+    }
+
+
+    .box_2 h5:hover{
+
+        color: red;
+    }
+
+
+  .box_img{
+
+
+padding-left: 200px;
+padding-top: 50px;
+display: inline-block;
+  }
+
+
+
+   .box_imgg{
+
+    padding-top: 20px;
+    padding-left: 100px;
+    display: inline-block;
+     }
+   
+
+
+     .box_imggg{
+
+        padding-top: 50px;
+        padding-left: 150px;
+        display: inline-block;
+        }
+    
+  /* benar 1 end */
+
+/* benar 2 start */
+
+.dui{
+    height:700px ;
+    width: 100%;
+    background: linear-gradient(to top,#241c1c,#ffffff);
+    display: flex;
+    
+    }
+
+    .lekha_3 img{
+        padding-top: 50px;
+        padding-left:180px;
+       }
+
+
+       .lekha_4{
+
+
+        padding-top: 50px;
+        padding-left: 50px;
+        transition: .4s;
+
+       }
+
+
+    
+    .lekha_4 h1:hover{
+
+        color: red;
+    
+    }
+
+          
+
+  .lekha_4 h1{
+       
+    padding-top: 0px;
+    padding-left: 10px;
+    font-size: 50px;
+    
+    
+      }
+
+
+
+      .lekha_4 h4:hover{
+
+        color: red;
+    
+    }
+
+
+   .lekha_4 h4{
+       
+        padding-top: 5px;
+        padding-left: 150px;
+        font-size: 20px;
+        
+        
+     }
+
+
+
+     .lekha_4 h6:hover{
+
+        color: red;
+    
+    }
+     
+
+     .lekha_4 h6{
+       
+        padding-top: 30px;
+        padding-left: 50px;
+        font-size: 18px;
+        
+        
+          }
+
+  
+   .learn{
+
+    padding-top: 30px;
+    padding-left: 50px;
+
+   }
+/* benar2 end */
+
+/* benar3 start */
+   .tin{
+    height:3800px ;
+    width: 100%;
+    background: linear-gradient(to bottom, #241c1c, #3a0901, 
+    #000000 ); 
+    transition: .4s;
+    
+   }
+
+   .lekha_5{
+
+
+    padding-top: 50px;
+    padding-left: 50px;
+    transition: .4s;
+
+   }
+
+
+
+.lekha_5 h1:hover{
+
+    color: red;
+
+}
+
+      
+
+.lekha_5 h1{
+   
+padding-top: 0px;
+padding-left: 450px;
+font-size: 50px;
+
+
+  }
+
+
+
+  .lekha_5 h4:hover{
+
+    color: red;
+
+}
+
+
+.lekha_5 h4{
+   
+    padding-top: 5px;
+    padding-left: 550px;
+    font-size: 20px;
+    
+    
+ }
+ 
+
+ .lekha_6 img{
+  padding-top: 90px;
+  padding-left:300px;
+ }
+
+
+ .lekha_6 h5{
+   
+  padding-top: 10px;
+  padding-left: 460px;
+  font-size: 30px;
+  color: red;
+  
+  
+}
+
+
+.lekha_6 h6{
+   
+  padding-top: 10px;
+  padding-left: 550px;
+  font-size: 30px;
+  color: red;}
+
+
+
+.reting{
+  
+   padding-left: 540px;
+  padding-top: 15px;
+
+  }
+
+  .reting a i{
+    color: gold;
+  }
+
+
+  
+  .lekha_7 img{
+    padding-top: 90px;
+    padding-left:300px;
+   }
+  
+  
+   .lekha_7 h5{
+     
+    padding-top: 10px;
+    padding-left: 460px;
+    font-size: 30px;
+    color: red;
+    
+    
+  }
+  
+  
+  .lekha_7 h6{
+     
+    padding-top: 10px;
+    padding-left: 550px;
+    font-size: 30px;
+    color: red;}
+  
+  
+ 
+  
+    .reting a i{
+      color: gold;
+    }
+  
+  
+    
+  
+  
+    .lekha_8 img{
+      padding-top: 90px;
+      padding-left:300px;
+     }
+    
+    
+     .lekha_8 h5{
+       
+      padding-top: 10px;
+      padding-left: 520px;
+      font-size: 30px;
+      color: red;
+      
+      
+    }
+    
+    
+    .lekha_8 h6{
+       
+      padding-top: 10px;
+      padding-left: 550px;
+      font-size: 30px;
+      color: red;}
+    
+    
+   
+    
+      .reting a i{
+        color: gold;
+      }
+    
+
+
+
+
+      
+  
+  .lekha_9 img{
+    padding-top: 90px;
+    padding-left:300px;
+   }
+  
+  
+   .lekha_9 h5{
+     
+    padding-top: 10px;
+    padding-left: 460px;
+    font-size: 30px;
+    color: red;
+    
+    
+  }
+  
+  
+  .lekha_9 h6{
+     
+    padding-top: 10px;
+    padding-left: 550px;
+    font-size: 30px;
+    color: red;}
+  
+  
+ 
+  
+    .reting a i{
+      color: gold;
+    }
+  
+
+
+
+
+    
+  
+  .lekha_10 img{
+    padding-top: 90px;
+    padding-left:300px;
+   }
+  
+  
+   .lekha_10 h5{
+     
+    padding-top: 10px;
+    padding-left: 550px;
+    font-size: 30px;
+    color: red;
+    
+    
+  }
+  
+  
+  .lekha_10 h6{
+     
+    padding-top: 10px;
+    padding-left: 570px;
+    font-size: 30px;
+    color: red;}
+  
+  
+ 
+  
+    .reting a i{
+      color: gold;
+    }
+
+  /* benar3 end */
+  /* benar4 start */
+
+
+  .car{
+    height:500px ;
+    width: 100%;
+    background: linear-gradient(to bottom,#030303,#8E0E00);
+    display: flex;
+  }
+
+  
+  
+  .lekha_11{
+
+    padding-top: 50px;
+    padding-left: 200px;
+   
+   }
+
+.say{
+  transition: .4s;
+}
+   
+  .say h1{
+       
+    padding-top: 150px;
+    padding-left: 100px;
+    font-size: 50px;
+    color: red;
+    
+    
+      }
+
+
+      .say h1:hover{
+
+   color: black;
+
+      }
+
+      .say a i{
+        font-size: 40px;
+        color: red;
+        padding-left: 200px;
+      }
+
+      .say a i:hover{
+        color: blue;
+      }
+      /* benar4 end  */
+      /* benr 5 start  */
+
+      .sat{
+
+        height:100px ;
+        width: 100%;
+        background: linear-gradient(to bottom,#8E0E00,#e7bbc8);
+      } 
+
+.sat h1{
+
+  padding-top: 20px;
+    padding-left: 600px;
+    font-size: 50px;
+    color: black;
+    transition: .4s;
+
+}
+
+.sat h1:hover{
+
+  color: red;
+
+     }
+
+     /* benar5 end  */
+     /* benar6 start  */
+     .pac{
+      height:800px ;
+      width: 100%;
+      background: linear-gradient(to right, #BA5370,#F4E2D8);
+      
+    }
+  
+  .coi{
+  
+    display: flex;
+  }
+  
+
+      .lekha_13 {
+       
+        padding-top: 0px;
+        padding-left: 0px;
+        
+        display: flex;
+        
+          }
+
+
+
+
+       .lal{
+
+        padding-top:120px ;
+        padding-left:100px;
+        
+      } 
+
+
+      .lal_1{
+
+        height: 500px;
+        width: 700px;
+        background-color: rgb(235, 138, 197);
+       
+      }
+
+      .lal_2{
+       padding-top: 10px;
+       padding-left: 50px;
+      }
+
+      .button_3{
+        padding-left: 150px;
+        padding-top: 30px;
+      }
+
+      .lal_3{
+        padding-top: 20px;
+        padding-left: 50px;
+       }
+
+       .lal_4{
+        padding-top: 30px;
+        padding-left: 50px;
+       }
+
+       .lal_5{
+        padding-top: 20px;
+        padding-left: 50px;
+       }
+       
+       .last{
+        padding-left: 30px;
+        padding-top: 120px;
+       }
+
+
+
+       .log a i{
+       font-size: 30px;
+       color: black;
+       padding-top: 50px;
+       padding-left: 100px;
+       }
+
+       .log a i:hover{
+        color: red;
+       }
+
+
+
+
+        /* benar6 end  */
